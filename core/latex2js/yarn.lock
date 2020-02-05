@@ -1041,8 +1041,8 @@ expect@^22.4.0:
     jest-regex-util "^22.1.0"
 
 extend@~3.0.0, extend@~3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.1.tgz#a755ea7bc1adfcc5a31ce7e762dbaadc5e636444"
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.2.tgz#f8b1136b4071fbd8eb140aff858b1019ec2915fa"
 
 extglob@^0.3.1:
   version "0.3.2"
@@ -2120,9 +2120,9 @@ kind-of@^4.0.0:
   dependencies:
     is-buffer "^1.1.5"
 
-latex2js-pstricks@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/latex2js-pstricks/-/latex2js-pstricks-1.1.5.tgz#02db49712c8d102b0af6b73eca94c74a0fd0109a"
+latex2js-pstricks@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/latex2js-pstricks/-/latex2js-pstricks-1.2.0.tgz#c181a09ee7ea35a19163aa93b5d1b74430a9607e"
   dependencies:
     d3 "^4.13.0"
     latex2js-settings "^1.1.5"
